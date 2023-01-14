@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { FaFacebook, FaTwitter, FaLinkedinIn, FaGithub } from "react-icons/fa";
+import { FaFacebook, FaTwitter, FaLinkedinIn, } from "react-icons/fa";
 
 const Footer = ({ text, bgColor, textColor }) => {
   const footerStyle = {
