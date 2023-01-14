@@ -14,7 +14,7 @@ const Footer = ({ text, bgColor, textColor }) => {
         <FaTwitter />
         <FaLinkedinIn />
       </div>
-      <p> &copy; Copyright | Team GitHub, 2023</p>
+      <p> &copy; Copyright | Team GitHub, Women Techsters Fellowship 2023</p>
     </footer>
   );
 };
